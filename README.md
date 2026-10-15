@@ -1,4 +1,5 @@
-# SECT-4451 — Lecture 2 Practical (ML Lab 1)
+# Natnael Henok UGR/9671/16 
+(ML Lab 1)
 
 Data exploration and foundational math on the student performance dataset.
 
